@@ -1,8 +1,8 @@
-2 
+3 
 ||| 
-Vielen Dank für den Erwerb unseres SuperN-Builds. Um euch den Einstieg so leicht wie möglich zu gestalten, haben wir extra für Euch einen Supportbereich auf notjust4nerds.de erschaffen. Nach der Registrierung könnt Ihr auf Inhalte zugreifen, wie "Erste Schritte", "Updates", "Häufig gestellte Fragen" und vieles mehr. Falls Ihr immer noch Probleme haben solltet, so könnt Ihr uns unter den angebenen Kotankdaten auf notjust4nerds.de erreichen. Viel Spaß wünscht euch euer notjust4nerds-Team!
+Vielen Dank für die Nutzung unseres SuperN-Builds. Um euch den Einstieg so leicht wie möglich zu gestalten, haben wir extra für Euch einen Supportbereich auf notjust4nerds.de erschaffen. Nach der Registrierung könnt Ihr auf Inhalte wie "Erste Schritte", "Updates", "Häufig gestellte Fragen" und vieles mehr zugreifen. Falls Ihr immer noch Probleme haben solltet, so könnt Ihr uns unter den angebenen Kotankdaten auf notjust4nerds.de erreichen. Viel Spaß wünscht euch euer notjust4nerds-Team!
 
-+++ Aktuelle SuperN Version: v.17.3.01.07.17 +++ Die zur Zeit installierte Version ist in oben rechts, in "Kodi" unter "Supern" zu sehen.
+[B][COLOR red]Aktuelle SuperN Version: v.17.3.01.07.17 - Die zur Zeit installierte Version ist oben rechts, in "Kodi" unter "SuperN" zu sehen.[/COLOR][/B]
 
 -Haftungsausschluss-
 Wir sind in keiner Weise mit den Entwicklern von Kodi oder der XBMC Foundation verbunden. Die installierten Third Party Addons gehören nicht zu Kodi.tv oder zu notjust4nerds.de und werden auch nicht unterstützt. Bei Fragen und Problem zu den Addons, wenden Sie sich bitte an die Betreiber dieser Addons.
