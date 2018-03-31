@@ -1,8 +1,8 @@
-6 
+7 
 ||| 
 Vielen Dank für die Nutzung unseres SuperN-Builds. Um euch den Einstieg so leicht wie möglich zu gestalten, haben wir extra für Euch einen Supportbereich auf notjust4nerds.de erschaffen. Nach der Registrierung könnt Ihr auf Inhalte wie "Erste Schritte", "Updates", "Häufig gestellte Fragen" und vieles mehr zugreifen. Falls Ihr immer noch Probleme haben solltet, so könnt Ihr uns unter den angebenen Kotankdaten auf notjust4nerds.de erreichen. Viel Spaß wünscht euch euer notjust4nerds-Team!
 
-[B][COLOR red]Aktuelle Builds: SuperN the One 1.2 & SuperN tv OS 1.2 [/COLOR][/B]
+[B][COLOR red]Aktuelle Builds: SuperN Minimalist 1.0 & SuperN Clearity 1.0 [/COLOR][/B]
 
 -Haftungsausschluss-
 Wir sind in keiner Weise mit den Entwicklern von Kodi oder der XBMC Foundation verbunden. Die installierten Third Party Addons gehören nicht zu Kodi.tv oder zu notjust4nerds.de und werden auch nicht unterstützt. Bei Fragen und Problem zu den Addons, wenden Sie sich bitte an die Betreiber dieser Addons.
