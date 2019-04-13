@@ -1,10 +1,10 @@
-10
+11
 ||| 
 Vielen Dank für die Nutzung unseres SuperN-Builds. Anleitungen und mehr findest du in unserer Wissensdatenbank auf [B][COLOR red]support.notjust4nerds.de [/COLOR][/B]
 
-Bei weiteren Fragen: [B][COLOR red]WhatsApp-Support: +49151 50983285 [/COLOR][/B]
+[B][COLOR red]Es gibt mehrere Builds/ Pakete für Kodi, mit unterschiedlichen Inhalten![/COLOR][/B]
 
-[B][COLOR red]Letztes Build-Update am 13.09.2018 [/COLOR][/B]
+Bei weiteren Fragen: [B][COLOR red]WhatsApp-Support: +49151 50983285 [/COLOR][/B]
 
 -Haftungsausschluss-
 Wir sind in keiner Weise mit den Entwicklern von Kodi oder der XBMC Foundation verbunden. Die installierten Third Party Addons gehören nicht zu Kodi.tv oder zu notjust4nerds.de und werden auch nicht unterstützt. Bei Fragen und Problem zu den Addons, wenden Sie sich bitte an die Betreiber dieser Addons.
